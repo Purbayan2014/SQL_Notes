@@ -11,12 +11,13 @@
 # 1. SQLite
 
 - [x] [SQLite | SQLite 与 Pandas 比较篇之一](https://blog.csdn.net/weixin_45488228/article/details/104450751)
-- [x] [SQLite | Select](https://blog.csdn.net/weixin_45488228/article/details/104336824)
-- [x] [SQLite | Where](https://blog.csdn.net/weixin_45488228/article/details/104377915)
-- [x] [SQLite | Group by and Order by](https://blog.csdn.net/weixin_45488228/article/details/104436653)
-- [x] [SQLite | CASE Statements](https://blog.csdn.net/weixin_45488228/article/details/104480537)
-- [x] [SQLite | Join](https://blog.csdn.net/weixin_45488228/article/details/104687791)
-- [x] [SQLite | Database Design](https://blog.csdn.net/weixin_45488228/article/details/104717903)
+- [x] [SQLite | Select 语句](https://blog.csdn.net/weixin_45488228/article/details/104336824)
+- [x] [SQLite | Where 子句](https://blog.csdn.net/weixin_45488228/article/details/104377915)
+- [x] [SQLite | Group by 与 Order by 子句](https://blog.csdn.net/weixin_45488228/article/details/104436653)
+- [x] [SQLite | CASE 子句](https://blog.csdn.net/weixin_45488228/article/details/104480537)
+- [x] [SQLite | Join 语句](https://blog.csdn.net/weixin_45488228/article/details/104687791)
+- [x] [SQLite | 数据库设计与 Creat Table 语句](https://blog.csdn.net/weixin_45488228/article/details/104725468)
+- [x] [SQLite | Insert、Delete、Updata 与 Drop 语句](https://blog.csdn.net/weixin_45488228/article/details/104725503)
 
 # 2. MySQL
 
