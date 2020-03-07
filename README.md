@@ -16,6 +16,7 @@
 - [x] [SQLite | Group by and Order by](https://blog.csdn.net/weixin_45488228/article/details/104436653)
 - [x] [SQLite | CASE Statements](https://blog.csdn.net/weixin_45488228/article/details/104480537)
 - [x] [SQLite | Join](https://blog.csdn.net/weixin_45488228/article/details/104687791)
+- [x] [SQLite | Database Design](https://blog.csdn.net/weixin_45488228/article/details/104717903)
 
 # 2. MySQL
 
